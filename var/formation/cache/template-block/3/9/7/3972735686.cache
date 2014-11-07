@@ -1,0 +1,41 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">Vous êtes ici :</span>            <span class="path">Créer une nouvelle règle, étape 1 : sélectionnez le module</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
+    <div id="leftmenu">
+<div id="leftmenu-design">
+    
+            
+    
+    <div class="box-header"><div class="box-ml">
+
+<h4>Informations sur le rôle</h4>
+
+</div></div>
+
+<div class="box-bc"><div class="box-ml"><div class="box-content">
+
+<p>
+<label>Nom:</label>
+Anonymous
+</p>
+
+<p>
+<label>ID:</label>
+4
+</p>
+
+</div></div></div>
+
+    
+</div>
+</div>
+
+<hr class="hide" />

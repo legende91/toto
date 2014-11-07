@@ -1,0 +1,15 @@
+a:10:{s:7:"content";s:313:"<div>
+    <ul>
+     
+        <h1> Titre :</h1> Ca se crash<br />
+
+   
+<b> Déscription :</b>    Oui ca se crash tres bien les airs buss !!!!
+
+Aha ha ha<br />    
+  
+<b> Image : </b>    <img src="/var/formation/storage/images/avions/airbuss/ca-se-crash/207-1-fre-FR/Ca-se-crash.jpg"/><br />     
+    </ul>
+</div>
+
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Avions";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:6:"Avions";s:7:"node_id";s:2:"60";}i:2;a:4:{s:4:"text";s:7:"Airbuss";s:3:"url";s:21:"/content/view/full/64";s:9:"url_alias";s:14:"Avions/Airbuss";s:7:"node_id";s:2:"64";}i:3;a:4:{s:4:"text";s:11:"Ca se crash";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"70";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Avions";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:6:"Avions";s:7:"node_id";s:2:"60";}i:2;a:4:{s:4:"text";s:7:"Airbuss";s:3:"url";s:21:"/content/view/full/64";s:9:"url_alias";s:14:"Avions/Airbuss";s:7:"node_id";s:2:"64";}i:3;a:3:{s:4:"text";s:11:"Ca se crash";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"70";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"70";s:7:"node_id";s:2:"70";s:14:"parent_node_id";s:2:"64";s:8:"class_id";s:2:"18";s:16:"class_identifier";s:8:"articles";s:9:"remote_id";s:32:"80662227d7b8a06ba07bfbfda201ba54";s:14:"node_remote_id";s:32:"6abab46de3f013e4d1f60a8e2524674f";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:26:"Avions/Airbuss/Ca-se-crash";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"70";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"17";s:23:"parent_class_identifier";s:13:"sous_rubrique";s:21:"parent_node_remote_id";s:32:"bbb52538e0fc2261912b6e0caa17142e";s:23:"parent_object_remote_id";s:32:"3b99a0d7044332745bab8dd96bb99c87";}s:13:"template_list";a:1:{i:0;s:73:"extension/formation/design/formation/override/templates/full/articles.tpl";}s:9:"cache_ttl";i:-1;}

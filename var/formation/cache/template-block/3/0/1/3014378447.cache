@@ -1,0 +1,20 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">Vous êtes ici :</span>                    <span class="disabled">eZ Publish</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">Bateau</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">Mer</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">La mer</span>
+            
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
